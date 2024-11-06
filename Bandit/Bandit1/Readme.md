@@ -46,7 +46,9 @@ Cuando se te pida la contraseña, introduce la que obtuviste en el archivo **rea
 
 ## Resumen de los Comandos Utilizados
 `ls`: Listar los archivos en un directorio.
+
 `cat`: Mostrar el contenido de un archivo.
+
 `ssh`: Conectarse a un servidor remoto mediante SSH.
 
 ---
