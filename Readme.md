@@ -8,7 +8,8 @@ Aquí se listan los wargames completados y en progreso. ¡Cada enlace llevará a
 
 | Wargame                    | Dificultad     | Estado           |
 |----------------------------|----------------|------------------|
-| [Bandit](Bandit/Readme.md) | Principiante   | 🚧 Pendiente    |
+| [Bandit](Bandit/Readme.md) | Principiante   | 🚧 En curso     |
+| [Natas](Natas/Readme.md)   | Principiante   | 📅 Programado   |
 
 ## Acerca de los Wargames de OverTheWire
 
