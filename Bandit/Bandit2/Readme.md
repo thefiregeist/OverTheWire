@@ -3,7 +3,7 @@
 En este nivel de **Bandit** en [OverTheWire](https://overthewire.org/wargames/bandit/bandit2.html), el objetivo es encontrar la contraseña para el siguiente nivel almacenada en un archivo llamado `-` en el directorio home. Una vez obtenida la contraseña, debes usarla para iniciar sesión en el nivel **bandit2** a través de **SSH**.
 
 ## Objetivo del Nivel
-La meta de este nivel es localizar el archivo `readme` que contiene la contraseña para acceder al siguiente nivel. Los datos necesarios para la conexión son los siguientes:
+La meta de este nivel es localizar el archivo `-` que contiene la contraseña para acceder al siguiente nivel. Los datos necesarios para la conexión son los siguientes:
 
 - **Host**: `bandit.labs.overthewire.org`
 - **Puerto**: `2220`
@@ -33,10 +33,10 @@ El archivo `-` debe contener la contraseña que necesitas para el siguiente nive
 ![image](https://github.com/user-attachments/assets/fcfd7fec-d7c9-42ba-b011-4b369bedcf3a)
 
 ## Paso 3: Conectarse al Siguiente Nivel
-Una vez que tengas la contraseña, puedes usar el comando `ssh` para iniciar sesión en el siguiente nivel bandit3:
+Una vez que tengas la contraseña, puedes usar el comando `ssh` para iniciar sesión en el siguiente nivel bandit2:
 
 ```
-ssh bandit3@bandit.labs.overthewire.org -p 2220
+ssh bandit2@bandit.labs.overthewire.org -p 2220
 ```
 
 Introduce la contraseña que encontraste en el archivo `-` para completar la conexión.
