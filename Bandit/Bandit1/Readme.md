@@ -1,6 +1,6 @@
 # Bandit Level 0 -> Level 1 - Solución
 
-En este nivel de **Bandit** en OverTheWire, el objetivo es encontrar la contraseña para el siguiente nivel almacenada en un archivo llamado `readme` en el directorio home. Una vez obtenida la contraseña, debes usarla para iniciar sesión en el nivel **bandit1** a través de **SSH**.
+En este nivel de **Bandit** en [OverTheWire](https://overthewire.org/wargames/bandit/bandit1.html), el objetivo es encontrar la contraseña para el siguiente nivel almacenada en un archivo llamado `readme` en el directorio home. Una vez obtenida la contraseña, debes usarla para iniciar sesión en el nivel **bandit1** a través de **SSH**.
 
 ## Objetivo del Nivel
 La meta de este nivel es localizar el archivo `readme` que contiene la contraseña para acceder al siguiente nivel. Los datos necesarios para la conexión son los siguientes:
