@@ -1,6 +1,6 @@
 # Bandit Level 0 - Solución
 
-En este primer nivel de **Bandit** en OverTheWire, el objetivo es conectarnos al servidor remoto mediante **SSH** usando las credenciales proporcionadas.
+En este primer nivel de **Bandit** en [OverTheWire](https://overthewire.org/wargames/bandit/bandit0.html), el objetivo es conectarnos al servidor remoto mediante **SSH** usando las credenciales proporcionadas.
 
 ## Objetivo del Nivel
 Conectarnos al servidor utilizando SSH con las credenciales específicas del usuario. Los datos necesarios para la conexión son los siguientes:
