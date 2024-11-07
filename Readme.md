@@ -1,4 +1,4 @@
-# OverTheWire Wargame Writeups
+# Soluciones OverTheWire Wargames
 
 Iniciando en el mundo de la ciberseguridad, [OverTheWire](https://overthewire.org/wargames/) es un recurso increíble para quienes quieren aprender las bases de la seguridad informática y el hacking ético. Los Wargames de OverTheWire ofrecen desafíos prácticos que cubren desde conceptos básicos hasta habilidades más avanzadas. A través de esta serie de writeups, iré documentando el proceso de resolución de estos desafíos.
 
