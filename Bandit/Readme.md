@@ -1,4 +1,4 @@
-# Bandit Wargame Writeup
+# Soluciones Bandit Wargame
 
 El wargame **Bandit** de [OverTheWire](https://overthewire.org/wargames/bandit/) es ideal para principiantes en seguridad informática y ofrece desafíos prácticos en la terminal de Linux. Cada nivel incrementa en dificultad y ayuda a desarrollar habilidades clave, como comandos básicos, manejo de archivos y permisos.
 
