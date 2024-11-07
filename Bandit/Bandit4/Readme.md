@@ -3,7 +3,7 @@
 En este nivel de **Bandit** en [OverTheWire](https://overthewire.org/wargames/bandit/bandit4.html), el objetivo es encontrar la contraseña para el siguiente nivel. La contraseña está almacenada en un archivo oculto dentro del directorio `inhere`.
 
 ## Objetivo del Nivel
-La meta de este nivel es localizar el archivo oculto que contiene la contraseña para acceder al siguiente nivel. Los datos necesarios para la conexión son los siguientes:
+Descubrir la contraseña para el siguiente nivel, almacenada en un archivo oculto dentro del directorio `inhere`.
 
 - **Host**: `bandit.labs.overthewire.org`
 - **Puerto**: `2220`
@@ -88,6 +88,15 @@ Esto mostrará la contraseña que usaremos para el siguiente nivel.
 
 ## Paso 6: Anotar la Contraseña
 Copia la contraseña que aparece y guárdala para el próximo nivel.
+
+---
+
+## Resumen de los Comandos Utilizados
+* `ssh`: Conectarse a un servidor remoto mediante SSH.
+* `cat`: Mostrar el contenido de un archivo.
+* `ls`: Listar los archivos en un directorio.
+* `ls -a`: Listar los archivos ocultos en un directorio.
+* `ls -a -1`: Listar los archivos ocultos en un directorio, en filas separadas.
 
 ---
 

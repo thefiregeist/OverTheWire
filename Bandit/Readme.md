@@ -2,9 +2,11 @@
 
 El wargame **Bandit** de [OverTheWire](https://overthewire.org/wargames/bandit/) es ideal para principiantes en seguridad informática y ofrece desafíos prácticos en la terminal de Linux. Cada nivel incrementa en dificultad y ayuda a desarrollar habilidades clave, como comandos básicos, manejo de archivos y permisos.
 
-A continuación, se ofrece una tabla con enlaces directos a cada nivel en OverTheWire y las soluciones correspondientes en GitHub.
+El objetivo en cada nivel es descubrir la contraseña que da acceso al siguiente nivel.
 
-## Índice de Niveles
+A continuación, se ofrece una tabla con enlaces directos a cada nivel de **Bandit** en OverTheWire, y las soluciones correspondientes en GitHub.
+
+## Índice de Niveles Bandit
 
 | Nivel                  | OverTheWire                         | Solución                      |
 |------------------------|-------------------------------------|-------------------------------|
