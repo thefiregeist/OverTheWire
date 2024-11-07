@@ -1,4 +1,4 @@
-# Bandit Level 3 -> Level 4 - Solución
+# Bandit Level 4 -> Level 5 - Solución
 
 En este nivel de **Bandit** en [OverTheWire](https://overthewire.org/wargames/bandit/bandit4.html), el objetivo es encontrar la contraseña para el siguiente nivel. La contraseña está almacenada en un archivo oculto dentro del directorio `inhere`.
 
