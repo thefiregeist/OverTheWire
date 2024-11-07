@@ -12,6 +12,15 @@ Descubrir la contraseña para el siguiente nivel, almacenada en un archivo llama
 
 ---
 
+## Paso 1: Conectarse al Servidor
+Primero, inicia sesión en el servidor con las credenciales del nivel anterior:
+
+```
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+```
+
+---
+
 ## Paso 2: Listar los Archivos en el Directorio Home
 Una vez que inicies sesión en **bandit2** con la contraseña del nivel anterior, utiliza el comando `ls` para listar los archivos en el directorio home y buscar el archivo con el nombre `spaces in this filename`.
 
