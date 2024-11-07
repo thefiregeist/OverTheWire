@@ -89,10 +89,11 @@ Esto nos indica que el fichero de texto plano que buscamos es el `-file07`.
 Utilizamos cat sobre el fichero:
 
 ```
-cat './file07'
+cat './-file07'
 ```
 
-Imagen
+![image](https://github.com/user-attachments/assets/4023fad4-4185-4da9-9b80-ae718b36b900)
+
 
 ---
 
