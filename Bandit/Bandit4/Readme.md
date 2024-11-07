@@ -86,4 +86,9 @@ Esto mostrará la contraseña que usaremos para el siguiente nivel.
 
 ---
 
+## Paso 6: Anotar la Contraseña
+Copia la contraseña que aparece y guárdala para el próximo nivel.
+
+---
+
 ¡Felicidades, has completado Bandit Level 4! Para continuar, ve a la página del siguiente nivel ([Level 4 -> Level 5](/Bandit5/Readme.md)).
