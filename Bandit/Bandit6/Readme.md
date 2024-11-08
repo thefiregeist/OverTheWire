@@ -1,6 +1,6 @@
 # Bandit Level 5 -> Level 6 - Solución
 
-En este nivel de **Bandit** en [OverTheWire](https://overthewire.org/wargames/bandit/bandit5.html), el objetivo es encontrar la contraseña para el siguiente nivel. La contraseña está almacenada en un archivo oculto dentro del directorio `inhere`.
+En este nivel de **Bandit** en [OverTheWire](https://overthewire.org/wargames/bandit/bandit6.html), el objetivo es encontrar la contraseña para el siguiente nivel. La contraseña está almacenada en un archivo oculto dentro del directorio `inhere`.
 
 ## Objetivo del Nivel
 Descubrir la contraseña del siguiente nivel, que se encuentra en algún archivo dentro del directorio `inhere`. Este archivo tiene las siguientes características:
