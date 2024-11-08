@@ -34,11 +34,12 @@ ls
 
 ---
 
-## Paso 3: Navegar al Directorio `inhere`
+## Paso 3: Navegar al Directorio `inhere` y comprobar lo que hay dentro
 Dirígete al directorio `inhere`:
 
 ```
 cd inhere
+ls -l
 ```
 
 ---
@@ -77,7 +78,8 @@ Utilizamos cat sobre el fichero:
 ```
 cat './maybehere07/.file2'
 ```
-Imagen
+
+![image](https://github.com/user-attachments/assets/8a11f84f-f904-48b2-8d17-1932d5a2d546)
 
 ---
 
